@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MykhailoRospopchuk
 - 👀 I’m interested in programming and designing electrical networks
-- 🌱 I just started learning programming. From the directions I see Java and Python
+- 🌱 I just started learning programming. From the directions I see .NET and Python
 - 💞️ I want to collaborate on projects where I can start programming
 - 📫 How to reach me? Just write to me in telegrams or other social networks @ros_misha)))
 
