@@ -3,7 +3,7 @@
 
   My pet projects:
 
-- [MnemosyneM](https://github.com/MykhailoRospopchuk/MnemosyneM))
+- [MnemosyneM](https://github.com/MykhailoRospopchuk/MnemosyneM)
 - [HowApp](https://github.com/orgs/HowApp/repositories)
 - [kowto](https://github.com/orgs/kowto-app/repositories)
 
